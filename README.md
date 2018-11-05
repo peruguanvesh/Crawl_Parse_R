@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crawler and Parser in R
 
 ### Author: Anvesh Kumar Perugu
@@ -51,3 +52,6 @@ How to run:
 
 
 
+=======
+# Crawl_Parse_R
+>>>>>>> 4e8c936e855a91416ea4e792daba038fd2a57d38
