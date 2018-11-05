@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crawler and Parser in R
 
 ### Author: Anvesh Kumar Perugu
@@ -50,8 +49,3 @@ How to run:
    To store all the information extracted above, we initialize a variable "information", a list to store all of the information.
 * In line 94, we output all information to a .txt file as"DNAResearch.txt" using write.table().
 
-
-
-=======
-# Crawl_Parse_R
->>>>>>> 4e8c936e855a91416ea4e792daba038fd2a57d38
